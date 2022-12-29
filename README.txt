@@ -1,13 +1,13 @@
 CheeseHead's Physics2D SideScroller
 2D Plaformer Game Project
-Courtesy of DevU.com
+Originally Created by Steven Nikolic for Developer University
 
 
 How to Use this Project:
 ========================
 
 
-Step 1: Load the Asset Package into Unity
+Step 1: Load the Asset Package into Unity or copy into Assets folder
 
 Step 2: Open the 'MainScene' Scene in the Assets > Scenes folder
 
@@ -21,9 +21,8 @@ Step 6: See the 'Script Synopsis' at the Top of Each Script File
 
 
 
-For in-depth video lesson tutorials showing how this game was constructed step-by-step, go to:
+Full lessons detailing construction have been moved to the following under "Section 4 - Creating a Physics Based Platformer Game":
+
+https://neondagger.com/learn-game-coding-c-sharp-unity-gamedev/
 
 
-http://www.devu.com/unity
-
-This project is covered in lessons 53-65, but also build upon concepts covered in previous lessons and the previous project
